@@ -34,7 +34,11 @@ cd frontend && npm install && npm run build && npm run preview
 
 ### Production Live Link
 
-The application will be available at: **https://course.app**
+**https://coursap.com**
+
+### API Base URL
+
+`https://api.coursap.com`
 
 **Deployment Architecture:**
 
@@ -45,7 +49,7 @@ The application will be available at: **https://course.app**
 
 ```
 project-root/
-├── backend/           # NestJS API Server
+├── backend/          # NestJS API Server
 │   ├── src/          # Source code
 │   └── package.json  # Backend dependencies
 ├── frontend/         # React Frontend Application

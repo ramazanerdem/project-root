@@ -41,7 +41,7 @@ The application follows modern React best practices and microfrontend-compatible
 
 ```
 src/
-├── components/          # Reusable UI components
+├── components/         # Reusable UI components
 │   ├── ui/             # Shadcn/ui UI components
 │   ├── Modal.tsx       # Generic modal component
 │   ├── LoadingSpinner.tsx
@@ -94,7 +94,7 @@ src/
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ramazanerdem/project-root.git
    cd frontend
    ```
 

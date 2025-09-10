@@ -91,7 +91,7 @@ This backend provides a full REST API with the following endpoints:
 1.  **Clone the repository**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ramazanerdem/project-root.git
     cd backend
     ```
 
