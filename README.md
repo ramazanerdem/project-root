@@ -32,6 +32,15 @@ cd backend && npm install && npm run build && npm run start
 cd frontend && npm install && npm run build && npm run preview
 ```
 
+### Production Live Link
+
+The application will be available at: **https://course.app**
+
+**Deployment Architecture:**
+
+- **Backend API**: Deployed on AWS EC2 instance
+- **Frontend**: Hosted on Cloudflare Pages
+
 ## 🏗️ Project Structure
 
 ```
