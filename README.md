@@ -1,4 +1,4 @@
-# User & Post Management System
+# User & Post Management System (with React & Nest.js)
 
 A comprehensive full-stack application for managing users and their posts, featuring a modern React frontend and a powerful NestJS backend. This system provides complete CRUD operations with a clean, responsive interface and a robust API architecture.
 
