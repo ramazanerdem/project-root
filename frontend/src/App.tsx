@@ -58,7 +58,8 @@ function App() {
                 User & Post Management
               </h1>
               <p className="mt-1 text-sm text-gray-600">
-                Simple CRUD operations for users and their posts
+                Simple CRUD operations for users and their posts with React,
+                TypeScript, and Tailwind CSS, Nest.js, AWS EC2, nginx.
               </p>
             </div>
             <div className="flex md:items-center space-x-4 w-full md:w-auto">
