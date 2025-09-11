@@ -42,7 +42,7 @@ cd frontend && npm install && npm run build && npm run preview
 
 **Deployment Architecture:**
 
-- **Backend API**: Deployed on AWS EC2 instance
+- **Backend API**: Deployed on Google Cloud Compute Engine VM instance
 - **Frontend**: Hosted on Cloudflare Pages
 
 ## 🏗️ Project Structure
